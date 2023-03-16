@@ -27,6 +27,7 @@ nav:
   - Intro: 
     - About: about/genes_and_health.md
     - TRE: about/tre_genes.md
+    - Roadmap: about/roadmap.md
   - Getting Started Guide:
     - Prerequisites: getting_started/prerequisites.md
     - Training: getting_started/training_video.md
