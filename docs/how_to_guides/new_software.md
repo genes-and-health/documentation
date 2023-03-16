@@ -1,0 +1,2 @@
+Only admins can install new software. As there is no internet access, this also includes CRAN, github, etc. Please put in a helpdesk request if you require new software, an updated or different version etc. Please email [hgi@sanger.ac.uk](mailto:hgi@sanger.ac.uk) to set up a ticket. This will take a few days to
+a week to complete. 

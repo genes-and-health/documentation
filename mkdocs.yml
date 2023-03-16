@@ -1,0 +1,52 @@
+site_name: Genes and Health Documentation
+theme:
+  name: material
+  # logo: img/bird.png
+  font: open sans regular
+  features:
+    - navigation.tabs
+  palette:
+    scheme: genesandhealth
+
+plugins:
+  - search
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - attr_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: True
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+nav:
+  - Intro: 
+    - About: about/genes_and_health.md
+    - TRE: about/tre_genes.md
+  - Getting Started Guide:
+    - Prerequisites: getting_started/prerequisites.md
+    - Training: getting_started/training_video.md
+    - Setting up a profile: getting_started/profile_setup.md
+    - Starting the TRE: getting_started/starting_the_tre.md
+    - Sandboxes: getting_started/sandboxes.md
+    - Folder Structure: getting_started/tre_organisation.md
+    - What data is available: getting_started/where_data.md
+    - Software Available: getting_started/software_available.md
+    - Getting your results out: getting_started/data_out.md
+  - How to Guides:
+    - How to get new software installed: how_to_guides/new_software.md
+    - How to get help: how_to_guides/getting_help.md
+    - How to get your data in: how_to_guides/get_data_in.md
+    - How to write hash symbols: how_to_guides/write_hash_symbol.md
+    - How to use docker: how_to_guides/run_docker.md
+  - Explainers:
+    - What is a TRE: explainers/tre.md
+    - What sandboxes are available: explainers/sandboxes.md
+    - Overview of folder structures: explainers/file_structure.md
+    - How is data linked: explainers/how_is_data_linked.md
+  - References:
+    - Shortcuts: references/shortcuts.md

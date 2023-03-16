@@ -1,0 +1,1 @@
+A 45min demo video on the TRE is here. A GWAS using regenie is demonstrated (300Mb .mp4 download, updated 5 oct 2022). Please use this [video](https://www.dropbox.com/s/k6h5botp53xk3l6/TRE%20Training-20220928_160450-Meeting%20Recording.mp4?dl=0) alongside this user guide.
