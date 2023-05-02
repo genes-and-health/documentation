@@ -49,5 +49,8 @@ nav:
     - What sandboxes are available: explainers/sandboxes.md
     - Overview of folder structures: explainers/file_structure.md
     - How is data linked: explainers/how_is_data_linked.md
+    - Where are the data from: explainers/raw_phenotype_data_overview.md
+    - What do the raw data look like: explainers/raw_phenotype_data_description.md
+    - How are phenotypes curated: explainers/phenotype_curation.md
   - References:
     - Shortcuts: references/shortcuts.md
