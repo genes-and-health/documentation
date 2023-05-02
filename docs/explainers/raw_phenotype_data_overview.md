@@ -4,11 +4,11 @@
 
 ## Summary
 
-This page provides an overview of the raw health data available to Genes and Health TRE users. All files described below are located in **genesandhealth/library-red**, please see the [page describing TRE file structures](/docs/explainers/file_structure.md) for further information. 
+This page provides an overview of the raw health data available to Genes and Health TRE users. All files described below are located in `genesandhealth/library-red`, please see the [page describing TRE file structures](/docs/explainers/file_structure.md) for further information. 
 
 For complete descriptions of file contents, please see the [raw health data description](/docs/explainers/raw_phenotype_data_description.md)
 
-All folders contain  detailed README.txt files describing the contents of each data file in more detail (number of rows, number of G&H volunteers present in the file etc). 
+All folders contain  detailed `README.txt` files, which describe the contents of each data file in more detail (number of rows, number of G&H volunteers present in the file etc). 
 
 ## Primary care data
 
@@ -16,7 +16,7 @@ Primary care datasets and linkage are provided by agreement with GP practices, m
 
 ### London
 
-All files are located in **/DSA_Discovery_7CCGs**. Subfolders are created for each data refresh. Folder names are the date of the refresh. For refreshes before 2023_01 data are further split by Clinical Comissioning Group (CCG). 
+All files are located in **/DSA_Discovery_7CCGs**. Subfolders are created for each data refresh. Folder names are the date of the refresh. For refreshes before 2023_01 data are further split by Clinical Commissioning Group (CCG). 
 
 1. **GNH_thwfnech** are for volunteers registered at practices in Tower Hamlets, Waltham Forest, Newham, City & Hackney CCGs
 
@@ -44,7 +44,7 @@ All files contain:
 
 - SNOMED concept ID for describing diagnoses, procedures, and prescriptions (useful for generating [binary traits](/docs/explainers/phenotype_curation.md))
 
-- value results (for test results e.g. creatinine, height etc where applicable and useful for generating [quantiative traits](/docs/explainers/phenotype_curation.md))
+- value results (for test results e.g. creatinine, height etc where applicable and useful for generating [quantitative traits](/docs/explainers/phenotype_curation.md))
 
 - value units (where applicable) describing the unit of measurement (e.g. meters or cm for height)
 
@@ -58,7 +58,7 @@ No raw primary care data as of 2023-04-14
 
 ## Secondary care data
 
-[Hospital Episode Statistics (HES)](https://digital.nhs.uk/data-and-information/data-tools-and-services/data-services/hospital-episode-statistics) data will be available on the TRE soon (pending NHS Digital approval at 2022-04-14), and for most purposes will supercede the regionally sourced secondary care data described below (HES will replicate the majority of data, and because it offers nationwide coveratge, will include more G&H volunteers).
+[Hospital Episode Statistics (HES)](https://digital.nhs.uk/data-and-information/data-tools-and-services/data-services/hospital-episode-statistics) data will be available on the TRE soon (pending NHS Digital approval at 2023-04-14), and for most purposes will supercede the regionally sourced secondary care data described below (HES will replicate the majority of data, and because it offers nationwide coveratge, will include more G&H volunteers).
 
 At present, secondary care data are split by location. As of 2023-04-14 secondary care data are available for volunteers in London and Bradford. 
 
