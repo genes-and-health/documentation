@@ -24,6 +24,7 @@ markdown_extensions:
   - pymdownx.superfences
 
 nav:
+  - Home: index.md
   - Intro: 
     - About: about/genes_and_health.md
     - TRE: about/tre_genes.md
