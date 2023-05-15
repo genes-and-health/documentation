@@ -1,24 +1,50 @@
-Before users are able to access the Genes & Health data, they must complete the appropriate 
-information governance training and confirm their acceptance of the Genes & Health Code of Conduct.
+Before users are able to access the Genes & Health data, they must complete the 
+appropriate information governance training and confirm their acceptance of the
+[Genes & Health Code of Conduct][].
 
 ## Information Governance Training and Attestation
-All users should please read the Code of Conduct:
-https://docs.google.com/document/d/1FjXIwvuLzU4zZaCRAZlMBxVYLeOOp9oTpb0mGmsvAGk/edit#
 
-Users should please complete the Data Security awareness level 1 course, and send their certificate to genesandhealth@qmul.ac.uk   This only takes 10 mins.
+1. All users must read and accept the [Genes & Health Code of Conduct][].
 
-Academic users (.ac.uk or @nhs.net email address):
-https://portal.e-lfh.org.uk/Component/Details/544034
+1. All users must complete the [NHS Data Security Awareness Level 1][] training 
+before they're granted access to Genes and Health data.
 
-Note: if you work at Wellcome Sanger Institute, when registering for the NHS Learning for Health Site use ODS Code 8J947 to find Genome Research Limited. 
+    - Users with an academic email address (`.ac.uk`) or an NHS email address (`@nhs.net`) 
+      can register for the Data Security Awareness training at [e-learning for Healthcare][].
 
-Non-academic users  can access the same course here (£25 cost): https://www.eintegrity.org/e-learning-healthcare-course/statutory-and-mandatory-training.html#buynow
+        !!! note ""
 
-## Attestation
-Followng this, users must complete their name and some information about their accessing computer in the Attestation here:  https://forms.gle/md8oM1rRcr6QLe1k8
+            If you're a [Wellcome Sanger Institute][] employee, please use
+            ODS Code `8J947` and select `Genome Research Limited` from the list of
+            organizations when you register for the course.
 
-Attesting to the code of conduct implies that users have completed this course.
+    - Non-academic users can register for the training course at [eIntegrity Healthcare e-learning][].
 
-These steps are important for our CyberEssentials, NHS Digital Data Security and Protection Toolkit, and ISO27001 accreditation.
+1. After completing the [NHS Data Security Awareness Level 1][] training course,
+all users must attest to the [Genes & Health Code of Conduct][] and upload 
+their certificate to Genes and Health new user registration system. Please 
+contact [Genes and Health] at [genesandhealth@qmul.ac.uk][] for instructions 
+on how to access the new user registration system.
 
-> Users who have not completed both Data Security Awareness course and the Attestation (ideally before using the system!) within 2 weeks of first login will be sent a first warning email, followed by a second warning email 2 weeks later. If still incomplete 2 weeks after the second warning the user will be deactivated.
+These steps are important for our [Cyber Essentials][] certification, 
+[NHS Digital Data Security and Protection Toolkit][], and [ISO 27001][] 
+accreditation.
+
+!!! warning
+
+    Users who have not completed the Data Security Awareness training or 
+    attested to the Code of Conduct are subject to having their account 
+    deactivated.
+
+
+[Genes & Health Code of Conduct]: /references/code_of_conduct
+[NHS Data Security Awareness Level 1]: https://www.e-lfh.org.uk/programmes/data-security-awareness
+[Genes and Health]: mailto:genesandhealth@qmul.ac.uk
+[genesandhealth@qmul.ac.uk]: mailto:genesandhealth@qmul.ac.uk
+[e-learning for Healthcare]: https://portal.e-lfh.org.uk/Component/Details/544034
+[eIntegrity Healthcare e-learning]: https://www.eintegrity.org/product/statutory-and-mandatory-training
+[Wellcome Sanger Institute]: https://www.sanger.ac.uk
+
+[Cyber Essentials]: https://www.ncsc.gov.uk/cyberessentials/overview
+[NHS Digital Data Security and Protection Toolkit]: https://digital.nhs.uk/data-and-information/looking-after-information/data-security-and-information-governance/data-security-and-protection-toolkit
+[ISO 27001]: https://www.iso.org/standard/27001

@@ -54,4 +54,5 @@ nav:
     - What do the raw data look like: explainers/raw_phenotype_data_description.md
     - How are phenotypes curated: explainers/phenotype_curation.md
   - References:
+    - Code of Conduct: references/code_of_conduct.md
     - Shortcuts: references/shortcuts.md
