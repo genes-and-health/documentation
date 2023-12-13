@@ -17,5 +17,5 @@
 | 13      | AstraZeneca                                        |           |             | ✓                                |
 | 14      | External Academic, Consortium Access               |           |             |                                  |
 | 15      | 5 Prime Sciences                                   |           |             |                                  |
-| 16      | S00073 Levine Glastonbur                           |           |             |                                  |
+| 16      | S00073 Levine Glastonbury                          |           |             |                                  |
 | 17      | Academic, NHS Digital access                       |           | ✓           |                                  |
