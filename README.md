@@ -1,6 +1,6 @@
 # Genes and Health documentation
 
-The aim of this documentation is to provide clear and helpful instructions to our end users of the Genes and Health Trust Research Environment. The docs are available at [https://genesandhealth.pages.dev/](https://genesandhealth.pages.dev/)
+The aim of this documentation is to provide clear and helpful instructions to our end users of the Genes and Health Trust Research Environment. The docs are available at [https://genesandhealth.pages.dev/](https://genesandhealth.pages.dev/). It is also linked via [https://docs.genesandhealth.org/](https://docs.genesandhealth.org/).
 
 # To contribute to this documentation
 There are 2 main ways you can contribute:
