@@ -32,6 +32,10 @@ Please see the README files in each folder for detail.
 
 Please note as of Feb 2023, we do not yet have permission from NHS Digital to put their data in the TRE. An amendment is awaited.
 
+A reference for the NHS Digital Data Model and dictionary can be found here:
+
+[NHS Digital reference](https://digital.nhs.uk/data-and-information/data-tools-and-services/data-services/hospital-episode-statistics/hospital-episode-statistics-data-dictionary)
+
 **/library-green/genesandhealth/**
 
 This contains downloadable data 'publically' available to users (read-only).
