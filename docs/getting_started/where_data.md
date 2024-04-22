@@ -2,9 +2,13 @@ This page goes through what data is available in the sandbox and how to access i
 
 ## TRE folders and what is in them
 
-/library-red/genesandhealth/ **2022\_05\_12\_pseudoNHS\_oragene\_withmissing\_DEIDENTIFIED.txt**
+PseudoNHS number serves as a unique identifier for individuals and is used for health data and phenotype identification.
+Oragene ID consists of a 14-digit code, like 15123456789012, and serves as an identifier for saliva tube DNA ids. Multiple samples may be collected from the same individual, resulting in a many-to-one relationship between Oragene ID and NHS number.
+Genetic assays, such as exome sequencing or GSA chip analysis, are assigned assay IDs. For GSA chip analysis, the assay ID consists of the Oragene ID concatenated with the Illumina chip ID and row position. Exome sequencing assay IDs follow the format GNH-15123456789012_2, with the suffix accommodating multiple assays of a single Oragene ID. Multiple or repeated assays may be conducted on the same Oragene ID.
 
-This file links Oragene ID (for genetics & questionnaire data) with PseudoNHS number (for NHS e-health record data). This file may get updated and re-dated.
+There is a file linking Oragene ID (for genetics & questionnaire data) with PseudoNHS number (for NHS e-health record data). This file may get updated and re-dated:
+
+/library-red/genesandhealth/**2022\_05\_12\_pseudoNHS\_oragene\_withmissing\_DEIDENTIFIED.txt**
 
 **/library-red/genesandhealth/GSAv3EAMD/**
 
