@@ -28,17 +28,17 @@ The default set of (hg19) files for IGV are found here
 
 ### Jupyter notebooks
 
-Jupyter is available in Applications menu as graphical user interface and can be run from the linux command line, by running `jupyter notebook` in the terminal. 
+Jupyter is available in Applications menu as graphical user interface and can also be run from the linux command line, by running `jupyter notebook` in the terminal. 
 
 ## VS Code
 
-The VS Code editor is available in Applications menu as graphical user interface (not from linux command line). It does not have plugins available unless they are specifically requested and installed by the Sanger Institute.
+The VS Code editor is available in Applications menu as graphical user interface and via the command line by using `code .`. It has limited plugins available as they must be specifically requested and installed by the Sanger Institute. The Jupyter notebook plugin available already installed.
 
 Any commands or scripts that rely on outside software will not work in the VS Code terminal unless the software is installed in the linux command line. For example, Github Co-pilot will not work in the VS Code terminal.
 
 ### RStudio
 
-RStudio is available in Applications menu as graphical user interface (not from linux command line).
+RStudio is available in Applications menu as graphical user interface. It can be launched from the command line via `rstudio`.
 
 ### LibreOffice
 

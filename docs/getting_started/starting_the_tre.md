@@ -14,9 +14,7 @@ Once you have logged in, you will be taken to the **Virtual Machines** page. Her
 
 ![IVM](images/ivm.png)
 
-You will be offered a variety of virtual machine (ivm) types. Choose the **Standard** one. We suggest only using the other types ( **which cost more!** ) if there is a need for a particular script (e.g. high memory), and only once you have tested your script works on the Standard machine. 
-
-Please actively turn these ivms off (see below) after your script has run. This is because they cost more to run than the Standard ivm.
+You will be offered a variety of virtual machine (ivm) types. Choose the **Standard** one. We suggest only using the other types ( **which cost more!** ) if there is a need for executing particular script that uses high memory or requires increased CPU capacity, and only once you have tested your script works on the Standard machine. 
 
 Note that there are a few ivm types with lots of CPUs - these can be good for multithreaded applications such as plink or regenie that can make full use of these - sometimes these applications can run input/output too fast for the standard google bucket storage, and you might need to copy key files to local faster storage (see below).
 
