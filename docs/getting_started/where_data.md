@@ -40,7 +40,6 @@ A reference for the NHS Digital Data Model and dictionary can be found here:
 
 [NHS Digital reference](https://digital.nhs.uk/data-and-information/data-tools-and-services/data-services/hospital-episode-statistics/hospital-episode-statistics-data-dictionary)
 
-
 **/library-green/genesandhealth/**
 
 This contains downloadable data 'publically' available to users (read-only).

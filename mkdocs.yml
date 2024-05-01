@@ -10,6 +10,7 @@ theme:
 
 plugins:
   - search
+  - mkdocs-video
 extra_css:
   - stylesheets/extra.css
 
@@ -26,15 +27,16 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Intro: 
-    - About: about/genes_and_health.md
-    - TRE: about/tre_genes.md
+    - Overview: about/genes_and_health.md
+    - Team: about/team.md
+    - Trusted Research Environment: about/tre_genes.md
     - Roadmap: about/roadmap.md
   - Getting Started Guide:
     - Prerequisites: getting_started/prerequisites.md
-    - Training: getting_started/training_video.md
     - Setting up a profile: getting_started/profile_setup.md
     - Starting the TRE: getting_started/starting_the_tre.md
     - Sandboxes: getting_started/sandboxes.md
+    - Overview: getting_started/training_video.md
     - Folder Structure: getting_started/tre_organisation.md
     - What data is available: getting_started/where_data.md
     - Software Available: getting_started/software_available.md

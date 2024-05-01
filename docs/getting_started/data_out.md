@@ -5,7 +5,7 @@ out into the world so they can be used in publications or other studies.
 Individual level data is not allowed out of the TRE. Any data out requests are reviewed by the Genes & Health core team to make sure they do not contain individual level data. Summary statistics, graphs etc are all usually fine.
 
 ## Existing data
-XX
+There are number of files in `library-green` that are available for download. These do not need a request to be made.
 
 ## Requesting data
 You can make a request to download your results by right-clicking the file and selecting "request file download" for any file in /genesandhealth/red or /genesandhealth/pipeline folders. This sends an automated email to the Genes & Health team. If you have not received a response within 48h please feel free to chase us up (e.g. by Slack). The team will copy the data to either /green (for users of your sandbox only, to be able to download) or to /library-green (for all users to be able to download)(see above).
