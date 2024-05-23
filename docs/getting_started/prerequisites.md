@@ -18,7 +18,8 @@ before they're granted access to Genes and Health data.
             ODS Code `8J947` and select `Genome Research Limited` from the list of
             organizations when you register for the course.
 
-    - Non-academic users can register for the training course at [eIntegrity Healthcare e-learning][].
+    - Non-academic users can register for the training course at https://www.eintegrity.org/healthcare-course/data-security-awareness-from-smc/
+    
 
 1. After completing the [NHS Data Security Awareness Level 1][] training course,
 all users must attest to the [Genes & Health Code of Conduct][] and upload 
