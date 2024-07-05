@@ -1,13 +1,13 @@
 Having selected your [_username@genesandhealth.qmul.ac.uk_](mailto:username@genesandhealth.qmul.ac.uk) account as your Chrome Profile, point your Chrome browser to one of the following URLs:
 
+- [https://new-production.genesandhealth.qmul.ac.uk/](https://new-production.genesandhealth.qmul.ac.uk/) - If you've been notified that your sandbox has been transitioned to the new version.
 - [https://qmul-production.genesandhealth.qmul.ac.uk/](https://qmul-production.genesandhealth.qmul.ac.uk/) - For the old version of the TRE.
-- https://new-production.genesandhealth.qmul.ac.uk/ - If you've been notified that your sandbox has been transitioned to the new version.
 
 This will take you to the TRE login page. You will be asked to enter your username and password. The username is the one you have been given by the Genes and Health team, and the password is the one you have set up when you first logged in.
 
 If you want to go a specific sandbox, you can use the following URL, and replace the sandbox number with the one you want to access:
 
-[https://qmul-production.genesandhealth.qmul.ac.uk/fg-qmul-production-sandbox-1/vm](https://qmul-production.genesandhealth.qmul.ac.uk/fg-qmul-production-sandbox-1/vm)
+<div style="padding:0.5em;border:1px solid #000;border-radius:.1rem"><select style="display: block" onchange="this.nextSibling.nextElementSibling.setAttribute('href', this.nextElementSibling.nextSibling.innerText='https://qmul-production.genesandhealth.qmul.ac.uk/fg-qmul-production-sandbox-'+this.value+'/vm');this.nextElementSibling.setAttribute('href', this.nextElementSibling.innerText='https://new-production.genesandhealth.qmul.ac.uk/qmul-production-sandbox-'+this.value+'/vm')"><option value="1">Sandbox 1 - QMUL+WSI Core Team Desktop</option><option value="2">Sandbox 2 - External Academic Desktop</option><option value="3">Sandbox 3 - GSK Desktop</option><option value="4">Sandbox 4 - BMS Desktop</option><option value="5">Sandbox 5 - MSD Desktop</option><option value="6">Sandbox 6 - Takeda Desktop</option><option value="7">Sandbox 7 - Pfizer Desktop</option><option value="8">Sandbox 8 - S00050_FFAIR-PRS Desktop</option><option value="9">Sandbox 9 - Maze Therapeutics Desktop</option><option value="10">Sandbox 10 - Novo Nordisk Desktop</option><option value="11">Sandbox 11 - University of Exeter</option><option value="12">Sandbox 12 - Genomics PLC</option><option value="13">Sandbox 13 - AstraZeneca</option><option value="14">Sandbox 14 - External Academic, Consortium access</option><option value="15">Sandbox 15 - 5 Prime Sciences</option><option value="16">Sandbox 16 - Sandbox 16</option><option value="17">Sandbox 17 - Academic, NHS Digital access</option></select><a style="display: block" href="https://qmul-production.genesandhealth.qmul.ac.uk/fg-qmul-production-sandbox-1/vm">https://new-production.genesandhealth.qmul.ac.uk/qmul-production-sandbox-1/vm</a><a href="https://qmul-production.genesandhealth.qmul.ac.uk/fg-qmul-production-sandbox-1/vm">https://qmul-production.genesandhealth.qmul.ac.uk/fg-qmul-production-sandbox-1/vm</a> - For the old version.</div>
 
 ## Choosing your ivm !
 
