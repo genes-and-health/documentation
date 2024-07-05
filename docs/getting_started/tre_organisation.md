@@ -32,11 +32,21 @@ Available at `/genesandhealth/library-red` in your sandbox, this is a read-only 
 
 We strongly recommend that you make your own directory in the red folder to store your data. This will allow you to share your data with other users in the same sandbox, without the risk of them accidentally deleting it.
 
-In the new TRE, files can only be copied to the `red` bucket by right-clicking on the file and selecting `Upload to red bucket`.
+In the __Old TRE__ you can do this directly in the File Manager or on the Command Line.
+
+In the __New TRE__, files can only be copied to the `red` bucket by right-clicking on the file and selecting `Upload to red bucket`.
 
 ![Image showing Upload to red bucket option](images/upload.png)
 
-This can also be done via `gsutil` from within the TRE.
+This can also be done via `gsutil` from within the TRE, for example:
+
+<div style="padding:0.5em;border:1px solid #000;border-radius:.1rem"><select style="display: block" onchange="this.nextElementSibling.innerText='gsutil cp -r -n my_file gs://qmul-production-sandbox-'+this.value+'-red/'"><option value="1">Sandbox 1 - QMUL+WSI Core Team Desktop</option><option value="2">Sandbox 2 - External Academic Desktop</option><option value="3">Sandbox 3 - GSK Desktop</option><option value="4">Sandbox 4 - BMS Desktop</option><option value="5">Sandbox 5 - MSD Desktop</option><option value="6">Sandbox 6 - Takeda Desktop</option><option value="7">Sandbox 7 - Pfizer Desktop</option><option value="8">Sandbox 8 - S00050_FFAIR-PRS Desktop</option><option value="9">Sandbox 9 - Maze Therapeutics Desktop</option><option value="10">Sandbox 10 - Novo Nordisk Desktop</option><option value="11">Sandbox 11 - University of Exeter</option><option value="12">Sandbox 12 - Genomics PLC</option><option value="13">Sandbox 13 - AstraZeneca</option><option value="14">Sandbox 14 - External Academic, Consortium access</option><option value="15">Sandbox 15 - 5 Prime Sciences</option><option value="16">Sandbox 16 - Sandbox 16</option><option value="17">Sandbox 17 - Academic, NHS Digital access</option></select>
+
+```
+gsutil cp -r -n my_file "gs://qmul-production-sandbox-1-red/"
+```
+
+</div>
 
 To remove a file from `/genesandhealth/red`, right-click on it in the File Manager and select `Delete from Red Bucket`.
 
