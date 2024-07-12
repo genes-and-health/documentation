@@ -3,10 +3,11 @@ To get started we will concentrate on the `home`, `library-red` and `red` folder
 
 This [reference page](../explainers/file_structure.md) goes through the other folder and explain what they are for and how they should be used. 
 
+The following is a high-level overview of the directories in the TRE:
+![Image showing high-level overview of the TRE](images/overview.png)
+
 # Your Home Folder
 Available at `/home/ivm` in your sandbox, this is your personal folder. You can use this to store any files you want to keep, but it is not backed up. If you delete a file from here, it is gone forever.
-
-<!-- If you have access to multiple sandboxes, your `/home` folder will be accessible from all of them. -->
 
 ### Home Folder Uses
 You can use your home folder for any files you want to keep, but it is not backed up. The best place for this is in your `red/` folder.
