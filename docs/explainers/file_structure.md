@@ -7,6 +7,7 @@ Same storage type as /genesandhealth/library-red, see comments above
 /genesandhealth/consortiumpriorityperiod-library-red is a google storage bucket gs://qmul-sandbox-production-library-consortiumpriorityperiod-red (read+write only for admins)
 
 ## Green folders
+
 ### green
 
 Specific to each sandbox.
@@ -21,7 +22,7 @@ The admin team will review data out requests, and either place the data in green
 
 Same storage type as /genesandhealth/library-red, see comments above.
 
-/genesandhealth/green is a google bucket gs://fg-qmul-production-sandbox-1\_green/ (read only for users, read+write only for admins) (replace the 1 with whichever sandbox you want)
+/genesandhealth/green is a google bucket gs://fg-qmul-production-sandbox-1_green/ (read only for users, read+write only for admins) (replace the 1 with whichever sandbox you want)
 
 ### consortiumpriorityperiod-library-green
 
@@ -30,11 +31,16 @@ Access as for consortiumpriorityperiod-library-red but with external download (e
 gs://qmul-sandbox-production-library-consortiumpriorityperiod-green
 
 ## Other folders
+
 ### shared
 
 You can 'publish' a file to /genesandhealth/shared by right clicking on it, and selected 'Share with all users'
 
 /genesandhealth/shared is available to all other users within the TRE.
+
+!!! note ""
+
+    This is no longer the case in the new TRE.
 
 ### pipelines
 
@@ -48,7 +54,7 @@ This is slower storage of large capacity (\>8 PiB @ Feb 2022)
 
 We also maintain a bucket for public datasets. This is not visible from within the TRE. Much of the data is mirrored in genesandhealth/library-green/ within the TRE.
 
-gs://genesandhealth\_publicdatasets/
+gs://genesandhealth_publicdatasets/
 
 ## Copying between google buckets within the TRE
 
@@ -75,7 +81,7 @@ Data in selected folders is protected from accidental deletion or alteration by 
 /genesandhealth/pipeline, 1 version, 7 days
 
 - we will keep either
- (a) the prior version of the data prior to a change (or deletion) by a user for 30 days , or
+  (a) the prior version of the data prior to a change (or deletion) by a user for 30 days , or
 
 (b) two prior versions of the data prior to a change (or deletion) by a user for 30 days.
 
