@@ -1,7 +1,8 @@
+
+
+# This documentation is now archived. For the new one, please visit: https://github.com/genes-and-health/new-docs
+
 # Genes and Health TRE documentation
-
-
-DONT USE THIS DOCUMENTATION. THIS IS THE OLD WEBSITE/GITHUB
 
 The aim of this documentation is to provide clear and helpful instructions to our end users of the Genes and Health Trust Research Environment. The docs are available at [https://genesandhealth.pages.dev/](https://genesandhealth.pages.dev/). It is also linked via [https://docs.genesandhealth.org/](https://docs.genesandhealth.org/).
 
