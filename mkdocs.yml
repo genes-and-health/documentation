@@ -26,35 +26,35 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Intro: 
-    - Overview: about/genes_and_health.md
-    - Team: about/team.md
-    - Trusted Research Environment: about/tre_genes.md
-    - Roadmap: about/roadmap.md
-  - Getting Started Guide:
-    - Prerequisites: getting_started/prerequisites.md
-    - Setting up a profile: getting_started/profile_setup.md
-    - Starting the TRE: getting_started/starting_the_tre.md
-    - Sandboxes: getting_started/sandboxes.md
-    - Overview: getting_started/training_video.md
-    - Folder Structure: getting_started/tre_organisation.md
-    - What data is available: getting_started/where_data.md
-    - Software Available: getting_started/software_available.md
-    - Getting your results out: getting_started/data_out.md
-  - How to Guides:
-    - How to get new software installed: how_to_guides/new_software.md
-    - How to get help: how_to_guides/getting_help.md
-    - How to get your data in: how_to_guides/get_data_in.md
-    - How to write hash symbols: how_to_guides/write_hash_symbol.md
-    - How to use docker: how_to_guides/run_docker.md
-  - Explainers:
-    - What is a TRE: explainers/tre.md
-    - What sandboxes are available: explainers/sandboxes.md
-    - Overview of folder structures: explainers/file_structure.md
-    - How is data linked: explainers/how_is_data_linked.md
-    - Where are the data from: explainers/raw_phenotype_data_overview.md
-    - What do the raw data look like: explainers/raw_phenotype_data_description.md
-    - How are phenotypes curated: explainers/phenotype_curation.md
-  - References:
-    - Code of Conduct: references/code_of_conduct.md
-    - Shortcuts: references/shortcuts.md
+  # - Intro: 
+  #   - Overview: about/genes_and_health.md
+  #   - Team: about/team.md
+  #   - Trusted Research Environment: about/tre_genes.md
+  #   - Roadmap: about/roadmap.md
+  # - Getting Started Guide:
+  #   - Prerequisites: getting_started/prerequisites.md
+  #   - Setting up a profile: getting_started/profile_setup.md
+  #   - Starting the TRE: getting_started/starting_the_tre.md
+  #   - Sandboxes: getting_started/sandboxes.md
+  #   - Overview: getting_started/training_video.md
+  #   - Folder Structure: getting_started/tre_organisation.md
+  #   - What data is available: getting_started/where_data.md
+  #   - Software Available: getting_started/software_available.md
+  #   - Getting your results out: getting_started/data_out.md
+  # - How to Guides:
+  #   - How to get new software installed: how_to_guides/new_software.md
+  #   - How to get help: how_to_guides/getting_help.md
+  #   - How to get your data in: how_to_guides/get_data_in.md
+  #   - How to write hash symbols: how_to_guides/write_hash_symbol.md
+  #   - How to use docker: how_to_guides/run_docker.md
+  # - Explainers:
+  #   - What is a TRE: explainers/tre.md
+  #   - What sandboxes are available: explainers/sandboxes.md
+  #   - Overview of folder structures: explainers/file_structure.md
+  #   - How is data linked: explainers/how_is_data_linked.md
+  #   - Where are the data from: explainers/raw_phenotype_data_overview.md
+  #   - What do the raw data look like: explainers/raw_phenotype_data_description.md
+  #   - How are phenotypes curated: explainers/phenotype_curation.md
+  # - References:
+  #   - Code of Conduct: references/code_of_conduct.md
+  #   - Shortcuts: references/shortcuts.md

@@ -1,4 +1,8 @@
-This is the documentation site for the Genes and Health project.
+Please visit the new TRE documentation using the link below:
+
+[https://documentation-docusaurus.pages.dev/](https://documentation-docusaurus.pages.dev/)
+
+<!-- This is the documentation site for the Genes and Health project.
 
 The Genes and Health project is a huge long-term study of 100,000 people of Bangladeshi and Pakistani heritage in the UK. We investigate genetic factors that influence health and disease in these population. To do this, we link genes with health records to study disease and treatments. 
 
@@ -17,4 +21,4 @@ This documentation is divided into the following sections:
 4. Explainers - Detailed explanations of commonly asked questions about the data and the project. 
 
 5. Reference - Technical documentation on the data and the TRE.
-
+ -->
