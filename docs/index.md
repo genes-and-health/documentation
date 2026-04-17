@@ -1,6 +1,12 @@
 Please visit the new TRE documentation using the link below:
 
+[https://genes-and-health.github.io/TRE-docs/](https://genes-and-health.github.io/TRE-docs/)
+
+<!--
+
 [https://documentation-docusaurus.pages.dev/](https://documentation-docusaurus.pages.dev/)
+
+-->
 
 <!-- This is the documentation site for the Genes and Health project.
 
