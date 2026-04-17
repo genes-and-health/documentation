@@ -1,6 +1,6 @@
 
 
-# This documentation is now archived. For the new one, please visit: https://github.com/genes-and-health/new-docs
+# This documentation is now archived. For the new one, please visit: ~~https://github.com/genes-and-health/new-docs~~ https://genes-and-health.github.io/TRE-docs/
 
 # Genes and Health TRE documentation
 
